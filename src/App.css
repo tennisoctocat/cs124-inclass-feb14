@@ -11,3 +11,11 @@ div {
   /*justify-content: space-between;*/
   /*align-content: row;*/
 }
+
+.selected {
+  background: rgba(255, 0, 0, 100%);
+}
+
+.selected.dimmed {
+  background: rgba(255, 0, 0, 50%);
+}
